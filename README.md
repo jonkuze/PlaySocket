@@ -21,3 +21,9 @@ REGION=us-east
 LATITUDE=37.431572
 LONGITUDE=-78.656891
 ```
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b1323ea53cb5&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+Host PlaySocket on **[Digital Ocean](https://m.do.co/c/b1323ea53cb5)** and **Get $200 FREE Credit**
+
+
